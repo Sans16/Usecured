@@ -94,9 +94,9 @@ public class ContactsInputPage extends BaseActivity implements ContactsInputView
 
         if(ServerUtils.isNetworkUnavailable(this)){showErrorMessage(ServerUtils.NO_NETWORK_ERROR_MESSAGE);}
         String token = "bearer"+SessionManager.getAccessToken();
-        addedContact.add(new Contacts("Sheriff","ahmed13@gmail.com","08023445678"));
-        addedContact.add(new Contacts("Femi","laide09@gmail.com","08034558967"));
-        addedContact.add(new Contacts("Keji","aramide@gmail.com","08024567899"));
+        addedContact.add(new Contacts("Sheriff","ossyfizy@gmail.com","08023445678"));
+        addedContact.add(new Contacts("Femi","ossyfizy007@gmail.com","08034558967"));
+        addedContact.add(new Contacts("Keji","osaigbovoemmanuel1@gmail.com","08024567899"));
 
         EmergencyContactRequestBody data = new EmergencyContactRequestBody(addedContact);
 

@@ -160,7 +160,123 @@
     <last-search-timestamp>1565477865575</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca64b02-7d1a-4aae-b67e-772de7a4fbf6" name="Default Changelist" comment="" />
+    <list default="true" id="4ca64b02-7d1a-4aae-b67e-772de7a4fbf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_airbnb_android_lottie_3_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tbuonomo_andrui_viewpagerdotsindicator_3_0_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/animations/loader.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/app/UsecuredApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/datastore/AppDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/datastore/AppRemoteDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/aboutpage/AboutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/changepassword/ChangePasswordInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/changepassword/ChangePasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/changepassword/ChangePasswordPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/changepassword/ChangePasswordView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/contact/ContactsInputInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/contact/ContactsInputPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/contact/ContactsInputView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotPasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/login/LoginInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/login/LoginPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/login/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/logout/LogOutInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/logout/LogOutPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/logout/LogOutView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/main/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/main/MainPageInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/main/MainPagePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/main/MainPageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/onboarding/OnboardingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/onboarding/adapter/ScreenSliderPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/onboarding/fragment/onBoardingFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/registration/RegisterInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/registration/RegisterPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/registration/RegisterView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/registration/RegistrationPageOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/features/setting/SettingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/injector/Injector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/request/ChangePasswordRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/request/ContactsInputRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/request/ForgotPasswordRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/request/LoginRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/request/RegisterRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/request/emergencycontact/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/request/emergencycontact/EmergencyContactRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/ChangePasswordResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/ContactsInputResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/EmergencyContactsResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/EmergencyResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/ForgotPasswordResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/login/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/login/EmergencyContacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/login/LoginResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/model/response/register/RegisterResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/network/LoggingInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/network/ServiceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/shared/base/base/BaseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/shared/base/base/BaseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/shared/base/base/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/shared/base/dialog/AppSuccessErrorDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/shared/base/dialog/CustomProgressDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/shared/base/types/DialogType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/utils/app/ServerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/utils/keys/PreferenceKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/supernova/utils/manager/SessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/abuse_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/app_splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/border_rounded_green_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/border_rounded_red_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/btn_back_ground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bus_accident_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/circular_red_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/fire_service_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/hotlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_call_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_contact_mail_yellow_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_done_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_email_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_info_outline_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_lock_open_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_lock_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_message_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_mode_edit_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_navigation_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_notifications_active_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_notifications_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_person_yellow_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_sentiment_dissatisfied_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_settings_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_tips_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/news_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/tips_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_about_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_change_password_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_forgot_password_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_onboarding_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_registration_page_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_setting_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/custom_progress_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_onboarding_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/success_error_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/splash_screen_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/usecured_splash_screen_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/toolbar_layer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,32 +295,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotPasswordPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotInteractor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/features/contact/ContactsInputPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+            <state relative-caret-position="434">
+              <caret line="98" column="70" selection-start-line="98" selection-start-column="70" selection-end-line="98" selection-end-column="70" />
             </state>
           </provider>
-          <provider editor-type-id="android-manifest" />
         </entry>
       </file>
     </leaf>
@@ -266,7 +363,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/supernova/model/response/ChangePasswordResponseBody.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/supernova/features/changepassword/ChangePasswordInteractor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/supernova/features/changepassword/ChangePasswordView.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/supernova/features/contact/ContactsInputPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/supernova/features/logout/LogOutView.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/supernova/features/setting/SettingPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/supernova/features/aboutpage/AboutPage.java" />
@@ -279,10 +375,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/supernova/features/main/MainPage.java" />
         <option value="$PROJECT_DIR$/src/main/res/layout/activity_main_page.xml" />
         <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/supernova/features/contact/ContactsInputPage.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="819" />
@@ -441,23 +538,12 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="supernova" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="forgotpassword" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Usecured" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="supernova" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Usecured" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="supernova" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="setting" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
               <item name="Usecured" type="1abcf292:AndroidViewProjectNode" />
@@ -700,10 +786,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="819" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="819" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.9029484" visible="true" weight="0.1595136" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.9029484" visible="true" weight="0.1595136" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -714,9 +801,9 @@
       <window_info anchor="bottom" id="Run" order="0" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.45288327" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32923833" />
-      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
@@ -984,13 +1071,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/features/contact/ContactsInputPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/datastore/AppRemoteDataStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -1082,25 +1162,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_change_password_page.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding>
-            <element signature="e#1863#1877#0" expanded="true" />
-            <element signature="e#2441#2463#0" expanded="true" />
-            <element signature="e#2505#2520#0" expanded="true" />
-            <element signature="e#2531#2545#0" expanded="true" />
-            <element signature="e#2585#2599#0" expanded="true" />
-            <element signature="e#2642#2656#0" expanded="true" />
-            <element signature="e#2848#2863#0" expanded="true" />
-            <element signature="e#3186#3200#0" expanded="true" />
-            <element signature="e#4564#4578#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main_page.xml">
       <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor">
@@ -1163,13 +1224,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotPasswordPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotInteractor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1177,11 +1231,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/features/forgotpassword/ForgotPasswordPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        <state relative-caret-position="445">
+          <caret line="54" column="76" lean-forward="true" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_change_password_page.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/supernova/features/contact/ContactsInputPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="98" column="70" selection-start-line="98" selection-start-column="70" selection-end-line="98" selection-end-column="70" />
         </state>
       </provider>
     </entry>
